@@ -1,4 +1,4 @@
-# ASMR_Poster_Information
+# ASMR Poster Information
 
 Detailed methods used (including code), links to dataset and literature cited.
 
