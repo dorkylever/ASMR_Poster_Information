@@ -7,5 +7,5 @@ Each page of the pdf represents the labelled organ (heading) segmented within LA
 Percentage plots showing the percentage of embryos with a particular combination of phenotypes (individual colours) in which phenotypes present in wild-type embryos are A) included or B) omitted.
 
 ### Table S1: Affected organs within Zic2 Kumba heterozygous C3H/HeH embryos detected via LAMA
-[Table S1](https://user-images.githubusercontent.com/41981766/141891349-8d54cd14-b3bb-4da1-af3d-dd5ee29030ff.png)
+
 
